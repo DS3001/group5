@@ -1,7 +1,7 @@
 # group5
 
-Final notebook can be viewed under final_notebook.ipynb
+Stroke project notebooks can be viewed under lab2.ipynb and lab2_fixedr2.ipynb
 
-Final write-up can be viewed under ds3001_paper(1)
+Stroke project write-up can be viewed under DS3001 Project 2(2).pdf
 
 Final project comment can be viewed under DS3001 Final Project (1).pdf
